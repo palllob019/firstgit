@@ -1,0 +1,103 @@
+*{
+margin: 0;
+padding: 0;
+ box-sizing: border-box;
+}
+ul,ol{
+list-style-type: none;
+}
+
+a,a:hover{
+
+text-decoration: none;
+display: inline-block;
+
+}
+
+h1,h2,h3,h4,h5,p{
+margin: 0;
+padding: 0;
+line-height: 0.8;
+
+}
+/* all commen css end */
+/* header part start */
+.navbar{
+
+background: blueviolet;
+
+}
+.hirebtn{
+
+    padding: 15px 30px;
+    background: rgb(189, 9, 120);
+    border-radius: 50px;
+    color: aqua;
+}
+
+/* logo design part  start */
+
+.logocolor{
+
+background-color: rgba(10, 228, 83, 0.897);
+border-radius: 50px;
+
+}
+
+
+/* logo design part end */
+/* menubar design part start */
+.nav-link{
+text-transform: uppercase;
+color: rgb(22, 22, 21);
+font-family: "Open Sans", sans-serif;
+}
+.banerpart{
+
+    padding: 15px 45px;
+
+}
+
+/* menubar design part end  */
+
+.col-lg-5{
+    margin: 30px;
+word-spacing: 8px;
+height: 350px;
+width: 470px;
+
+
+}
+
+.contactme{
+
+    color: aqua;
+    background-color: brown;
+    padding: 15px 30px;
+    border-radius: 50px;
+    margin-top: 30px;
+}
+.cv{
+ color: aqua;
+    background-color: brown;
+    padding: 15px 30px;
+    border-radius: 50px;
+    margin-top: 30px;
+}
+
+.name{
+color: blue;
+
+
+
+}
+
+#service{
+
+    padding:100px;
+    background-color: aquamarine;
+}
+.col-lg-8{
+
+    
+}
